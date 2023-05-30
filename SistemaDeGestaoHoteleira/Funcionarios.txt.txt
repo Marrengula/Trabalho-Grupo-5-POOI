@@ -1,0 +1,6 @@
+Nome;senha;codigo;cargo; contacto;BI;Nacionalidade;sexo; endereco; idade; nuit 
+Joao Machava; 1234; 001; Gerente; "845589233";"117166777M"; "Mocambicano"
+Gabriela Soares; 1290; 021; Recepcionista; "856789999";"218772838Q"; "Portugal"
+Maicos Bras; 0127; 129; IT; "879988098";"128873778M"; "Mocambicana"
+Miguel Machatine; 1234; 001; Administrador; "847788999";"128837766W"; "Mocambicano"
+Jordao Jobe; 1288; 031; Marketing; "838890990";"112998800Y"; "Mocambicano"
