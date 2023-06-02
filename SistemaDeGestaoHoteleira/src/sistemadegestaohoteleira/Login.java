@@ -11,7 +11,7 @@ public class Login {
           // Cria uma lista vazia para armazenar os funcionarios
           this.funcionarios = new ArrayList<>();
           
-          //Abre o arquivo de texto com as informacoes do funcionario
+          //Abre o arquivo de texto com as informações do funcionario
           FileReader fw = new FileReader("Funcionarios.txt");
           BufferedReader bw = new BufferedReader(fw);
           int i = 0;
